@@ -1,0 +1,16 @@
+krishna,12
+krishna,33
+krishna,22
+kalyan,55
+kalyan,200
+vijaylakshmi,102
+vijaylakshmi,134
+vijaylakshmi,11
+vijaylakshmi,10
+vijaylakshmi,143
+vijaylakshmi,177
+vijaylakshmi,14
+santosh,99
+santosh,34
+santosh,56
+santosh,34
