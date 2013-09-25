@@ -1,0 +1,11 @@
+[Hello 1 a a a a a]
+
+ -> maps via MapperWrapper to -> 
+
+(1, 1)
+(Hello, 1)
+(a, 1)
+(a, 1)
+(a, 1)
+(a, 1)
+(a, 1)
